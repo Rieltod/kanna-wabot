@@ -269,7 +269,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
 │ ▸ *Author :* Nurutomo
-┴ ▸ *Owner :* Letta
+┴ ▸ *Owner :* RielOfc
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Tolong jangan dispam ya biar ga delay
@@ -277,7 +277,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
      ▌│█║▌║▌║║▌║▌║█│▌
      
      ${week}, ${date}`,
-          "buttonText": "Click Here!",
+          "buttonText": "klik Disini",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
